@@ -1,5 +1,5 @@
 # JBscan
-A JeecgBoot vulnerability detection tool
+一款JeecgBoot 漏洞检测工具
 
 **Usage**
 ```
