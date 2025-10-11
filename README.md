@@ -3,7 +3,7 @@
 
 **Usage**
 ```
-usage: JBscan.py [-h] [-u URL] [-f FILE] [-v {1,2,3,4,5,6,7,8,9,10,11,12,13,14}] [-o OUTPUT]
+usage: JBscan [-h] [-u URL] [-f FILE] [-v {1,2,3,4,5,6,7,8,9,10,11,12,13,14}] [-o OUTPUT]
 
 JeecgBoot漏洞检测工具
 
