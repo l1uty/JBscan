@@ -5,7 +5,7 @@
 ```
 usage: JBscan [-h] [-u URL] [-f FILE] [-v {1,2,3,4,5,6,7,8,9,10,11,12,13,14}] [-o OUTPUT]
 
-Usage of ./JBscan_darwin_arm64:
+Usage of ./JBscan:
   -f string
         包含目标URL的文件
   -o string
