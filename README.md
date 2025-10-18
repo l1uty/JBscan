@@ -2,6 +2,7 @@
 一款JeecgBoot漏洞检测工具
 
 **Usage**
+
 新增html格式储存扫描结果
 ```
 usage: JBscan [-h] [-u URL] [-f FILE] [-v {1,2,3,...}] [-o OUTPUT]
