@@ -1,5 +1,4 @@
 # JBscan
-一款JeecgBoot漏洞检测工具
 
 **Usage**
 
